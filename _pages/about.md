@@ -18,4 +18,4 @@ My research interests include:
 
 My work focuses on understanding how modern machine learning systems learn and how we can improve their reasoning capabilities.
 
-This website contains information about my research, publications, and projects.
+This website contains information about my research, publications, and projects. 
