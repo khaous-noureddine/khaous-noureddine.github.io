@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "noureddine"
+site_theme               : "khaous-noureddine"
 title                    : "Noureddine Khaous"
 title_separator          : "-"
 name                     : &name "Noureddine Khaous"
-description              : &description "PhD student in AI, NLP and research systems"
+description              : &description "PhD student in NLP"
 url                      : "https://khaous-noureddine.github.io"
 baseurl                  : ""
 repository               : "khaous-noureddine/khaous-noureddine.github.io"
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/noureddine-khaous/"
+  linkedin         : "noureddine-khaous"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
