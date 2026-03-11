@@ -7,15 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am **Noureddine Khaous**, a PhD student working on Artificial Intelligence and Machine Learning.
-
-My research interests include:
-
-- Large Language Models
-- Natural Language Processing
-- Reinforcement Learning
-- AI for scientific discovery
-
-My work focuses on understanding how modern machine learning systems learn and how we can improve their reasoning capabilities.
-
-This website contains information about my research, publications, and projects. 
+I am **Noureddine Khaous**, a PhD student at Université Paris Cité working on **Natural Language Processing and Machine Learning**. My research focuses on understanding and improving modern artificial intelligence systems, particularly large language models and learning algorithms. I am interested in developing methods that improve reasoning, efficiency, and reliability in machine learning systems, with applications to natural language understanding and scientific discovery.
