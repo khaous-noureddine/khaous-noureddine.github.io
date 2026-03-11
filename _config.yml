@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Noureddine Khaous"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Noureddine Khaous"
 description              : &description "PhD student in NLP"
 url                      : "https://khaous-noureddine.github.io"
