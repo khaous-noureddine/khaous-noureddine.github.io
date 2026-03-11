@@ -22,7 +22,7 @@ repository               : "khaous-noureddine/khaous-noureddine.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/home/nkhaous/Noureddine/noureddine.khaous/headshot_kn.png"
+  avatar           : "headshor_kn.png"
   name             : "Noureddine Khaous"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in NLP"
