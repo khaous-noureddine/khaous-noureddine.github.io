@@ -12,4 +12,4 @@ Hi! I am a PhD candidate at <a href="https://u-paris.fr/">Universit√© Paris Cit√
 More broadly, I am interested in developing data-efficient approaches for low-resource languages. I work toward methods that can support field linguists in transcription and documentation, helping improve the inclusivity of speech technologies.
 
 
-Keywords: Speech Foundation Models, Self-Supervised Learning, Speech Model Interpretability, Low-Resource Languages, Automatic Speech Recognition, Computational Linguistics.
+**Keywords:** Speech Foundation Models, Self-Supervised Learning, Speech Model Interpretability, Low-Resource Languages, Automatic Speech Recognition, Computational Linguistics.
