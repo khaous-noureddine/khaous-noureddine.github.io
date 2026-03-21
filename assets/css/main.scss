@@ -51,3 +51,7 @@
 .page__footer-links {
   display: none !important;
 }
+
+.page__footer a[href*="/sitemap/"] {
+  display: none !important;
+}
