@@ -17,5 +17,5 @@ More broadly, I am interested in developing data-efficient approaches for low-re
 ## News
 
 - **July 2026** — I attended the [16th Lisbon Machine Learning Summer School (LxMLS 2026)](http://lxmls.it.pt/2026/) at Instituto Superior Técnico in Lisbon, Portugal.
-- **June 2026** — Our paper *L'accent comme structure géométrique persistante dans les représentations de la parole*, with Guillaume Wisniewski, was accepted at CORIA-TALN 2026. [Conference page](https://coria-taln-2026.ls2n.fr/articles-acceptes/)
+- **June 2026** — Our paper *L'accent comme structure géométrique persistante dans les représentations de la parole*, with Guillaume Wisniewski, was accepted at CORIA-TALN 2026. [Conference page](https://hal.science/hal-05708358/document)
 - **April 2026** — Our preprint *Target Parameterization in Diffusion Models for Nonlinear Spatiotemporal System Identification*, with Achraf El Messaoudi and Karim Cherifi, is now available on [arXiv](https://arxiv.org/abs/2604.17566).
